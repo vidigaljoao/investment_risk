@@ -17,8 +17,8 @@ from datetime import date
 import perf_analysis as pa
 from portfolio_test import *
 
-# input_dir = "/content/investment_risk/data/"
-input_dir = "data/"
+input_dir = "/content/investment_risk/data/"
+# input_dir = "data/"
 new_data = True
 
 
